@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: 快来快来
-      link: /articles/组件库环境搭建
+      link: /articles/setup-guide
     - theme: alt
       text: View on Github
       link: https://github.com/HuChenXiXi

@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: 查看最新文章
-      link: /articles/组件库环境搭建
+      link: /articles/setup-guide
     - theme: alt
       text: 我的开源项目
       link: https://github.com/HuChenXiXi
@@ -72,8 +72,8 @@ graph TD
 ## 📚 最新文章
 
 - [《pina和vuex.md》](/articles/pina和vuex)  
-- [《gulp的使用》](/articles/gulp的使用)  
-- [《组件库环境搭建》](/articles/组件库环境搭建)  
+- [《gulp的使用》](/articles/gulp-usage)  
+- [《组件库环境搭建》](/articles/get-started)  
 
 ## 🤝 与我连接
 

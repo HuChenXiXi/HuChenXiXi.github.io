@@ -14,7 +14,7 @@ export default {
     nav: [
       { text: "博客", link: "https://www.huchenxi.fun" },
       // 修复：链接使用全小写英文（避免中文路径问题）
-      { text: "文章中心", link: "/articles/get-started" },
+      { text: "文章中心", link: "/articles/" },
     ],
     sidebar: {
       "/articles/": [
@@ -22,8 +22,10 @@ export default {
           text: "组件库源码实现",
           items: [
             // 统一使用英文文件名
-            { text: "组件库环境搭建", link: "/articles/get-started" },
+            { text: "组件库环境搭建", link: "/articles/setup-guide" },
             { text: "gulp的使用", link: "/articles/gulp-usage" },
+            { text: "pina和vuex", link: "/articles/pina-vuex" },
+
           ]
         }
       ]
