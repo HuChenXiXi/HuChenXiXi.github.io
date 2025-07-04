@@ -71,9 +71,9 @@ graph TD
 
 ## 📚 最新文章
 
-- [《pina和vuex.md》](/articles/pina和vuex)  
+- [《pina和vuex.md》](/articles/pina-vuex)  
 - [《gulp的使用》](/articles/gulp-usage)  
-- [《组件库环境搭建》](/articles/get-started)  
+- [《组件库环境搭建》](/articles/setup-guide)  
 
 ## 🤝 与我连接
 
