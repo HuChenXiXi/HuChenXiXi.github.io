@@ -5,6 +5,10 @@ export default {
   // 基础配置（如果部署到非根路径需设置）
   base: '/',  // 如果是子路径仓库如 '/repo-name/'
 
+  sitemap: {
+    hostname: 'https://huchenxixi.github.io'
+  },
+
   title: '晨曦学习笔记',
   description: '一个vue3组件库',
 
@@ -19,13 +23,19 @@ export default {
     sidebar: {
       "/articles/": [
         {
-          text: "组件库源码实现",
+          text: "前端学习笔记",
           items: [
             // 统一使用英文文件名
             { text: "组件库环境搭建", link: "/articles/setup-guide" },
             { text: "gulp的使用", link: "/articles/gulp-usage" },
             { text: "pina和vuex", link: "/articles/pina-vuex" },
 
+          ]
+        },
+        {
+          text: "后端学习笔记",
+          items: [
+            {text: "暂无,关注博客",link: "https://www.huchenxi.fun"}
           ]
         }
       ]
